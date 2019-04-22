@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="topics_labels">
+    <item>News</item>
+    <item>Sport</item>
+    <item>Politics</item>
+    <item>Fashion</item>
+    <item>Health</item>
+    <item>Science</item>
+  </string-array>
+  <string-array name="topics_codes">
+    <item>news</item>
+    <item>sport</item>
+    <item>politics</item>
+    <item>fashion</item>
+    <item>health</item>
+    <item>science</item>
+  </string-array>
+</resources>

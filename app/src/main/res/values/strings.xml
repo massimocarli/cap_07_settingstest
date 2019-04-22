@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">SettingsTest</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="settings">Settings</string>
+
+  <string name="settings_sync_category">Synchronization</string>
+  <string name="prefs_auto_sync_title">Auto</string>
+  <string name="prefs_auto_sync_summary">If checked the synchronization happens automatically</string>
+  <string name="prefs_sync_wifi">WiFi</string>
+  <string name="prefs_sync_wifi_summary">If enabled the sync is happening only on WiFi</string>
+  <string name="settings_topic_category">Topics</string>
+  <string name="prefs_topic_title">Topics</string>
+  <string name="prefs_topic_summary">Select the topic you want to synchronize.</string>
+  <string name="settings_comment_nickname_label">comment nickname</string>
+  <string name="settings_comment_nickname_summary">This is the nickname you\'re using in comments</string>
+  <string name="nickname_summary_format">Your nickname is %1$s</string>
+</resources>
